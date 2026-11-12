@@ -1,0 +1,444 @@
+[
+  {
+    "id": "rice_cooked",
+    "name_zh": "白米饭（熟）",
+    "name_en": "Rice, white, cooked",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 130,
+      "protein_g": 2.69,
+      "fat_g": 0.28,
+      "carbs_g": 28.17
+    },
+    "source": "Rice, white, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "brown_rice_cooked",
+    "name_zh": "糙米饭（熟）",
+    "name_en": "Rice, brown, cooked",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 123,
+      "protein_g": 2.74,
+      "fat_g": 0.97,
+      "carbs_g": 25.58
+    },
+    "source": "Rice, brown, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "pasta_cooked",
+    "name_zh": "意大利面（熟）",
+    "name_en": "Pasta, cooked",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 158,
+      "protein_g": 5.8,
+      "fat_g": 0.93,
+      "carbs_g": 30.86
+    },
+    "source": "Pasta, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "oats_dry",
+    "name_zh": "燕麦片（干重，需煮熟）",
+    "name_en": "Oats, dry",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 389,
+      "protein_g": 16.89,
+      "fat_g": 6.9,
+      "carbs_g": 66.27
+    },
+    "source": "Oats, dry USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "whole_wheat_bread",
+    "name_zh": "全麦面包",
+    "name_en": "Bread, whole wheat",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 247,
+      "protein_g": 12.45,
+      "fat_g": 3.35,
+      "carbs_g": 41.29
+    },
+    "source": "Bread, whole wheat USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "potato_boiled",
+    "name_zh": "土豆（煮熟）",
+    "name_en": "Potato, boiled",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 87,
+      "protein_g": 1.87,
+      "fat_g": 0.1,
+      "carbs_g": 20.13
+    },
+    "source": "Potato, boiled USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "sweet_potato_baked",
+    "name_zh": "红薯（烤熟）",
+    "name_en": "Sweet potato, baked",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 90,
+      "protein_g": 2.01,
+      "fat_g": 0.15,
+      "carbs_g": 20.71
+    },
+    "source": "Sweet potato, baked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "corn_cooked",
+    "name_zh": "甜玉米粒（熟）",
+    "name_en": "Corn, sweet, cooked",
+    "food_group": "staple",
+    "per_100g": {
+      "kcal": 96,
+      "protein_g": 3.41,
+      "fat_g": 1.5,
+      "carbs_g": 20.98
+    },
+    "source": "Corn, sweet, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "chicken_cooked",
+    "name_zh": "去皮鸡胸肉（熟）",
+    "name_en": "Chicken breast, cooked, skinless",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 165,
+      "protein_g": 31.02,
+      "fat_g": 3.57,
+      "carbs_g": 0
+    },
+    "source": "Chicken breast, cooked, skinless USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "salmon_cooked",
+    "name_zh": "三文鱼（熟）",
+    "name_en": "Salmon, cooked",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 206,
+      "protein_g": 22.1,
+      "fat_g": 12.35,
+      "carbs_g": 0
+    },
+    "source": "Salmon, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "egg_boiled",
+    "name_zh": "鸡蛋（煮熟，去壳）",
+    "name_en": "Egg, hard boiled",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 155,
+      "protein_g": 12.58,
+      "fat_g": 10.61,
+      "carbs_g": 1.12
+    },
+    "source": "Egg, hard boiled USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "tofu_firm",
+    "name_zh": "硬豆腐",
+    "name_en": "Tofu, firm",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 144,
+      "protein_g": 17.3,
+      "fat_g": 8.72,
+      "carbs_g": 2.78
+    },
+    "source": "Tofu, firm USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "lentils_cooked",
+    "name_zh": "扁豆（煮熟）",
+    "name_en": "Lentils, cooked",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 116,
+      "protein_g": 9.02,
+      "fat_g": 0.38,
+      "carbs_g": 20.13
+    },
+    "source": "Lentils, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "chickpeas_cooked",
+    "name_zh": "鹰嘴豆（煮熟）",
+    "name_en": "Chickpeas, cooked",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 164,
+      "protein_g": 8.86,
+      "fat_g": 2.59,
+      "carbs_g": 27.42
+    },
+    "source": "Chickpeas, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "turkey_cooked",
+    "name_zh": "去皮火鸡胸肉（熟）",
+    "name_en": "Turkey breast, cooked, skinless",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 147,
+      "protein_g": 30.13,
+      "fat_g": 2.08,
+      "carbs_g": 0
+    },
+    "source": "Turkey breast, cooked, skinless USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "tuna_water",
+    "name_zh": "金枪鱼（水浸，沥干）",
+    "name_en": "Tuna, canned in water, drained",
+    "food_group": "protein",
+    "per_100g": {
+      "kcal": 116,
+      "protein_g": 25.51,
+      "fat_g": 0.82,
+      "carbs_g": 0
+    },
+    "source": "Tuna, canned in water, drained USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "broccoli_cooked",
+    "name_zh": "西兰花（熟）",
+    "name_en": "Broccoli, cooked",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 35,
+      "protein_g": 2.38,
+      "fat_g": 0.41,
+      "carbs_g": 7.18
+    },
+    "source": "Broccoli, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "carrots_cooked",
+    "name_zh": "胡萝卜（熟）",
+    "name_en": "Carrots, cooked",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 35,
+      "protein_g": 0.76,
+      "fat_g": 0.18,
+      "carbs_g": 8.22
+    },
+    "source": "Carrots, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "spinach_cooked",
+    "name_zh": "菠菜（熟）",
+    "name_en": "Spinach, cooked",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 23,
+      "protein_g": 2.97,
+      "fat_g": 0.26,
+      "carbs_g": 3.75
+    },
+    "source": "Spinach, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "tomato_raw",
+    "name_zh": "番茄（生）",
+    "name_en": "Tomato, raw",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 18,
+      "protein_g": 0.88,
+      "fat_g": 0.2,
+      "carbs_g": 3.89
+    },
+    "source": "Tomato, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "cucumber_raw",
+    "name_zh": "黄瓜（生）",
+    "name_en": "Cucumber, raw",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 15,
+      "protein_g": 0.65,
+      "fat_g": 0.11,
+      "carbs_g": 3.63
+    },
+    "source": "Cucumber, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "cabbage_cooked",
+    "name_zh": "卷心菜（熟）",
+    "name_en": "Cabbage, cooked",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 23,
+      "protein_g": 1.27,
+      "fat_g": 0.06,
+      "carbs_g": 5.51
+    },
+    "source": "Cabbage, cooked USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "pepper_raw",
+    "name_zh": "红甜椒（生）",
+    "name_en": "Pepper, red, raw",
+    "food_group": "vegetable",
+    "per_100g": {
+      "kcal": 31,
+      "protein_g": 0.99,
+      "fat_g": 0.3,
+      "carbs_g": 6.03
+    },
+    "source": "Pepper, red, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "banana_raw",
+    "name_zh": "香蕉（去皮）",
+    "name_en": "Banana, raw",
+    "food_group": "fruit",
+    "per_100g": {
+      "kcal": 89,
+      "protein_g": 1.09,
+      "fat_g": 0.33,
+      "carbs_g": 22.84
+    },
+    "source": "Banana, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "apple_raw",
+    "name_zh": "苹果（可食部分）",
+    "name_en": "Apple, raw, with skin",
+    "food_group": "fruit",
+    "per_100g": {
+      "kcal": 52,
+      "protein_g": 0.26,
+      "fat_g": 0.17,
+      "carbs_g": 13.81
+    },
+    "source": "Apple, raw, with skin USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "orange_raw",
+    "name_zh": "橙（去皮）",
+    "name_en": "Orange, raw",
+    "food_group": "fruit",
+    "per_100g": {
+      "kcal": 47,
+      "protein_g": 0.94,
+      "fat_g": 0.12,
+      "carbs_g": 11.75
+    },
+    "source": "Orange, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "pear_raw",
+    "name_zh": "梨（可食部分）",
+    "name_en": "Pear, raw",
+    "food_group": "fruit",
+    "per_100g": {
+      "kcal": 57,
+      "protein_g": 0.36,
+      "fat_g": 0.14,
+      "carbs_g": 15.23
+    },
+    "source": "Pear, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "grapes_raw",
+    "name_zh": "葡萄（可食部分）",
+    "name_en": "Grapes, raw",
+    "food_group": "fruit",
+    "per_100g": {
+      "kcal": 69,
+      "protein_g": 0.72,
+      "fat_g": 0.16,
+      "carbs_g": 18.1
+    },
+    "source": "Grapes, raw USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "milk_whole",
+    "name_zh": "全脂牛奶",
+    "name_en": "Milk, whole",
+    "food_group": "dairy",
+    "per_100g": {
+      "kcal": 61,
+      "protein_g": 3.15,
+      "fat_g": 3.25,
+      "carbs_g": 4.8
+    },
+    "source": "Milk, whole USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "yogurt_plain",
+    "name_zh": "原味全脂酸奶",
+    "name_en": "Yogurt, plain, whole milk",
+    "food_group": "dairy",
+    "per_100g": {
+      "kcal": 61,
+      "protein_g": 3.47,
+      "fat_g": 3.25,
+      "carbs_g": 4.66
+    },
+    "source": "Yogurt, plain, whole milk USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "milk_lowfat",
+    "name_zh": "低脂牛奶（1%）",
+    "name_en": "Milk, lowfat, 1%",
+    "food_group": "dairy",
+    "per_100g": {
+      "kcal": 42,
+      "protein_g": 3.37,
+      "fat_g": 0.97,
+      "carbs_g": 4.99
+    },
+    "source": "Milk, lowfat, 1% USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "olive_oil",
+    "name_zh": "橄榄油（需搭配食物）",
+    "name_en": "Olive oil",
+    "food_group": "fat",
+    "per_100g": {
+      "kcal": 884,
+      "protein_g": 0,
+      "fat_g": 100,
+      "carbs_g": 0
+    },
+    "source": "Olive oil USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "almonds",
+    "name_zh": "杏仁",
+    "name_en": "Almonds",
+    "food_group": "fat",
+    "per_100g": {
+      "kcal": 579,
+      "protein_g": 21.15,
+      "fat_g": 49.93,
+      "carbs_g": 21.55
+    },
+    "source": "Almonds USDA-style generic public values for offline demo"
+  },
+  {
+    "id": "walnuts",
+    "name_zh": "核桃仁",
+    "name_en": "Walnuts",
+    "food_group": "fat",
+    "per_100g": {
+      "kcal": 654,
+      "protein_g": 15.23,
+      "fat_g": 65.21,
+      "carbs_g": 13.71
+    },
+    "source": "Walnuts USDA-style generic public values for offline demo"
+  }
+]
